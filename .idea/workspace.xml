@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc836ae-6a27-4eac-8e8c-e2dbee944f4c" name="Changes" comment="Initial commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jQueryUITest/Tests/DialogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jQueryUITest/Tests/DialogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jQueryUITest/Tests/DroppableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jQueryUITest/Tests/DroppableTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tonesstan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tonesstan/jQueryUI.git",
+    "accountId": "3ce0eeef-77f6-4272-94b5-66fb8adf5510"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oOr3cH6oVsW9y4Uo7O13A1GbWv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DialogTest.executor": "Run",
+    "JUnit.DroppableTest.VisualFeedback2Test.executor": "Run",
+    "JUnit.DroppableTest.defaultFunctionalityTest.executor": "Run",
+    "JUnit.DroppableTest.deleteAndRecycleImageTest.executor": "Run",
+    "JUnit.DroppableTest.draggableAcceptTest.executor": "Run",
+    "JUnit.DroppableTest.draggableRejectTest.executor": "Run",
+    "JUnit.DroppableTest.executor": "Run",
+    "JUnit.DroppableTest.notPreventPropagationTest.executor": "Run",
+    "JUnit.DroppableTest.openAndCloseBigImageTest.executor": "Run",
+    "JUnit.DroppableTest.revertDraggable2Test.executor": "Run",
+    "JUnit.DroppableTest.revertDraggableTest.executor": "Run",
+    "JUnit.DroppableTest.visualFeedbackTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Tone/Desktop/QA/9.Продвинутая часть тестирования на Java/79. Сложные UI-элементы/jQueryUI/src/main/java/jQueryUITest/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DroppableTest.draggableAcceptTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jQueryUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jQueryUITest.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jQueryUITest.Tests" />
+      <option name="MAIN_CLASS_NAME" value="jQueryUITest.Tests.DroppableTest" />
+      <option name="METHOD_NAME" value="draggableAcceptTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppableTest.draggableRejectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jQueryUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jQueryUITest.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jQueryUITest.Tests" />
+      <option name="MAIN_CLASS_NAME" value="jQueryUITest.Tests.DroppableTest" />
+      <option name="METHOD_NAME" value="draggableRejectTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppableTest.openAndCloseBigImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jQueryUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jQueryUITest.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jQueryUITest.Tests" />
+      <option name="MAIN_CLASS_NAME" value="jQueryUITest.Tests.DroppableTest" />
+      <option name="METHOD_NAME" value="openAndCloseBigImageTest(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppableTest.revertDraggable2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jQueryUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jQueryUITest.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jQueryUITest.Tests" />
+      <option name="MAIN_CLASS_NAME" value="jQueryUITest.Tests.DroppableTest" />
+      <option name="METHOD_NAME" value="revertDraggable2Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppableTest.revertDraggableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jQueryUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jQueryUITest.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jQueryUITest.Tests" />
+      <option name="MAIN_CLASS_NAME" value="jQueryUITest.Tests.DroppableTest" />
+      <option name="METHOD_NAME" value="revertDraggableTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DroppableTest.draggableAcceptTest" />
+        <item itemvalue="JUnit.DroppableTest.draggableRejectTest" />
+        <item itemvalue="JUnit.DroppableTest.revertDraggable2Test" />
+        <item itemvalue="JUnit.DroppableTest.revertDraggableTest" />
+        <item itemvalue="JUnit.DroppableTest.openAndCloseBigImageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc836ae-6a27-4eac-8e8c-e2dbee944f4c" name="Changes" comment="" />
+      <created>1730751265715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730751265715</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1730972663007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730972663007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jQueryUITest/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
